@@ -1,0 +1,19 @@
+[user]
+	name = Emredinho61
+	email = emre-samet61@hotmail.de
+[commit]
+	gpgSign = false
+[pull]
+	rebase = false
+[gui]
+	pruneduringfetch = true
+[smartgit "submodule"]
+	fetchalways = false
+	update = true
+	initializenew = true
+[push]
+	recurseSubmodules = check
+[credential]
+	helper = manager
+[init]
+	defaultBranch = main
